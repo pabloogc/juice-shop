@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "Threat Model",
+    "owner": "Zumrud",
+    "description": "Threat model for juice shop"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
